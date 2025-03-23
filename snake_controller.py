@@ -3,7 +3,7 @@ from sys import exit
 from snake_model import *
 from snake_view import *
 
-TICK_RATE = 30
+TICK_RATE = 15
 
 pygame.init()
 pygame.display.set_caption("Snake")
